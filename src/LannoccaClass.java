@@ -31,4 +31,5 @@ public class LannoccaClass {
 		LannoccaClass lc= new LannoccaClass();
 		System.out.println(lc.LannoccaMet(3, 7));
 	}
+	//versione2
 }
