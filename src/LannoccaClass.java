@@ -18,7 +18,7 @@ public class LannoccaClass {
 	 */
 	public float LannoccaMet (int b, int e) {
 		int val1=1;
-		for(int i=1;i<=b;i++) {
+		for(int i=1;i<=e;i++) {    //bisogna mettere <= a e in quanto l'operazione si deve ripetere per e volte
 			val1=val1*b;
 		}
 		return val1;
